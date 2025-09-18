@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Using Git is helpful in order to track our changes, collaborate with others on a project, and edit our files remotely.
+
