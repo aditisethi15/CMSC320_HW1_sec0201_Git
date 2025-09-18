@@ -4,3 +4,5 @@ Answer: Using Git is helpful in order to track our changes, collaborate with oth
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data science could be applied to various different fields, including finance, healthcare, government, manufacturing, etc. 
 
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging combines the histories of the two branches into a single branch, while rebasing rewrites history by putting changes from one branch at the beginning of another.
