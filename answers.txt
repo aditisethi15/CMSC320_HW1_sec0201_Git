@@ -6,3 +6,6 @@ Answer: Data science could be applied to various different fields, including fin
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines the histories of the two branches into a single branch, while rebasing rewrites history by putting changes from one branch at the beginning of another.
+
+Q4: What are you looking forward to this semester?
+Answer: I am looking forward to how beautiful campus looks during the fall!
